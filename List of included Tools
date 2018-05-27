@@ -1,0 +1,87 @@
+Included tools
+
+Information Gathering 
+ 
+    ✓ AMAP 
+    ✓ Automater 
+    ✓ CaseFile 
+    ✓ arpscan 
+    ✓ dnmap 
+    ✓ Fierce 
+    ✓ GoLismero 
+    ✓ hping3  
+    ✓ Maltego Teeth 
+    ✓ masscan 
+    ✓ Nmap 
+    ✓ Zenmap 
+    ✓ know-scan 
+    ✓ Recon-ng 
+    ✓ theHarvester 
+    ✓ URLCrazy 
+
+Network Tools 
+
+    ✓ autossh 
+    ✓ SET 
+    ✓ Exploit pack 
+    ✓ search -exploits 
+
+Forensics Tools 
+
+    ✓ pdf-parser 
+    ✓ pdfid 
+    ✓ peepdf 
+    ✓ OSXAuditor-master 
+    ✓ Binary reader Cookie 
+
+web Applications 
+
+    ✓ Burp Suite 
+    ✓ nikto 
+    ✓ DirBuster 
+    ✓ Fimap 
+    ✓ jSQL 
+    ✓ sqlmap 
+    ✓ Vega 
+    ✓ Wfuzz 
+    ✓ mitmproxy 
+    ✓ mitmdump 
+    ✓ zaproxy 
+    ✓ WebScarab 
+    ✓ wapiti 
+    ✓ SQL Injector
+
+Stress Testing 
+
+    ✓ SlowHTTPTest 
+    ✓ THC-SSL-DOS 
+
+Sniffing & Spoofing 
+
+    ✓ Cocoa Packect Analyzer 
+    ✓ sslstrip 
+    ✓ Wireshark 
+    ✓ tcpdump 
+
+Password Attacks 
+
+    ✓ crunch 
+    ✓ hash-identifier 
+    ✓ THC-Hydra 
+    ✓ pw-inspector 
+    ✓ John the Ripper 
+    ✓ Ncrack 
+    ✓ phrasendrescher 
+    ✓ RSMangler 
+    ✓ pipal 
+
+Maintaining Access 
+
+    ✓ tunna 
+    ✓ SBD 
+    ✓ Weevely 
+
+Reporting Tools 
+
+    ✓ KeepNote 
+    ✓ MagicTree
